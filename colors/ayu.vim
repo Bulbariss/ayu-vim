@@ -35,6 +35,7 @@ let s:palette.line      = {'dark': "#151A1E",  'light': "#F3F3F3",  'mirage': "#
 let s:palette.selection = {'dark': "#253340",  'light': "#F0EEE4",  'mirage': "#343F4C"}
 let s:palette.fg        = {'dark': "#E6E1CF",  'light': "#A7B2C8",  'mirage': "#D9D7CE"}
 let s:palette.fg_idle   = {'dark': "#3E4B59",  'light': "#828C99",  'mirage': "#607080"}
+let s:palette.highlight   = {'dark': "#3E4B59",  'light': "#828C99",  'mirage': "#00ff00"}
 
 "}}}
 
