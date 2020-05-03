@@ -6,7 +6,7 @@ if exists("syntax_on")
 endif
 
 let s:style = get(g:, 'ayucolor', 'dark')
-let g:colors_name = "ayu"
+let g:colors_name = "ayu-better"
 "}}}
 
 " Palettes:"{{{
